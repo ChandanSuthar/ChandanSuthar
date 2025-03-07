@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm a passionate self-taught Game Developer with a
 
 ![Game Dev Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdncjBkZndoc2J3Nm1qNGNzemk5YmpicWdseHk4cGJyMXh0M2tmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DCsTuBZx1I76L9GXUP/giphy.gif)
 
+And Yes, I can create illustrations, sketches & 3D Models as well.
+
 ## 🔧 Tech Stack
 
 - **Languages:** C#, Python
