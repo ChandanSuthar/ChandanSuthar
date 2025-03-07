@@ -1,4 +1,4 @@
-![Gamer Room Banner](https://img.freepik.com/free-vector/detailed-gamer-room-illustration_23-2148923561.jpg?t=st=1721458894~exp=1721462494~hmac=cc9756dd6571d16d10a04efb6cf61804c1acd5d10387204d1258b14eb58fa563&w=1380)
+![Gamer Room Banner](https://wallpapercave.com/wp/wp7664856.png)
 
 # Hi there, I'm Chandan Suthar! 🎮👾
 
