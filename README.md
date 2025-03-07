@@ -18,8 +18,8 @@ Loading...
 
 ## 📫 Get in Touch
 
-- **Email:** chandansuthar@example.com
-- **LinkedIn:** [Chandan Suthar](https://www.linkedin.com/in/chandansuthar/)
+- **Email:** chandansuthar92@gmail.com
+- **LinkedIn:** [Chandan Suthar](https://www.linkedin.com/in/chandansuthar007/)
 - **Twitter:** [@chandansuthar](https://twitter.com/chandansuthar)
 
 
