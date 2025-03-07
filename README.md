@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate self-taught Game Developer with a focus on creating immersive games using C# and Unity. Here, you'll find my latest projects, contributions, and some of my favorite game development resources.
 
-![Game Dev Animation]([https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdncjBkZndoc2J3Nm1qNGNzemk5YmpicWdseHk4cGJyMXh0M2tmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DCsTuBZx1I76L9GXUP/giphy.gif))
+![Game Dev Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdncjBkZndoc2J3Nm1qNGNzemk5YmpicWdseHk4cGJyMXh0M2tmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DCsTuBZx1I76L9GXUP/giphy.gif)
 
 ## 🔧 Tech Stack
 
